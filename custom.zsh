@@ -1,3 +1,5 @@
+# ln -s custom.zsh ~/.oh-my-zsh/custom/custom.zsh
+
 unsetopt correct_all
 
 alias tmux="TERM=screen-256color-bce tmux"
