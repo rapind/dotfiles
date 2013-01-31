@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/daverapin/projects/indusblue/nbc-olympics-companion-cms/app/models'
+let g:netrw_dirhist_2='/Users/daverapin/projects/indusblue/nbc-olympics-companion-cms'
+let g:netrw_dirhist_3='/Users/daverapin/projects/indusblue/nbc-olympics-companion-cms/app'
+let g:netrw_dirhist_4='/Users/daverapin/projects/indusblue/nbc-olympics-companion-cms/app/models'
+let g:netrw_dirhist_5='/Users/daverapin/projects/indusblue/nbc-olympics-companion-cms'
+let g:netrw_dirhist_6='/Users/daverapin/projects/indusblue/ctv-olympics-companion'
+let g:netrw_dirhist_7='/Users/daverapin'
+let g:netrw_dirhist_8='/Users/daverapin/projects/indusblue/ctv-olympics-companion'
