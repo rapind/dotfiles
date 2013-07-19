@@ -1,6 +1,0 @@
-call pathogen#infect()
-syntax on
-filetype plugin indent on
-:colorscheme ir_black
-let g:nerdtree_tabs_open_on_console_startup=1
-let mapleader = ','
