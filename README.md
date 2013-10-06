@@ -4,7 +4,7 @@
 cd
 git clone git@github.com:rapind/dotfiles.git .dotfiles
 ln -s $HOME/.dotfiles/custom.zsh $HOME/.oh-my-zsh/custom/custom.zsh
-ln -s $HOME/.dotfiles/vimrc.after $HOME/.vimrc.after
+ln -s $HOME/.dotfiles/vimrc $HOME/.vimrc
 mkdir $HOME/.vim/colors
 ln -s $HOME/.dotfiles/Tomorrow-Night.vim $HOME/.vim/colors/Tomorrow-Night.vim
 ```
