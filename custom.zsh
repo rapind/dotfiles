@@ -4,4 +4,6 @@ unsetopt correct_all
 
 alias c='clear'
 alias be='bundle exec'
-
+alias rs='rails server'
+alias rc='rails console'
+alias mm="middleman -p 3000"
