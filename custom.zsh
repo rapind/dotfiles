@@ -7,6 +7,8 @@ alias be='bundle exec'
 alias rs='rails server'
 alias rc='rails console'
 alias mm="middleman -p 3000"
+alias vi="mvim"
+alias vim="mvim"
 alias bower='noglob bower'
 
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin:$HOME/.rvm/bin:/Applications/racket/bin"
