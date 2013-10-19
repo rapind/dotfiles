@@ -2,4 +2,5 @@ set gfn=Monaco:h14
 set nobackup
 set nowritebackup
 set noswapfile
-color Tomorrow-Night-Eighties
+color Tomorrow-Night
+set clipboard=unnamed
