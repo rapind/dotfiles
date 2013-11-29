@@ -6,3 +6,4 @@ color Tomorrow-Night
 set clipboard=unnamed
 au BufRead,BufNewFile *.hamlc set ft=haml
 au BufNewFile,BufRead *.ejs set filetype=html
+set shell=/bin/sh
