@@ -2,12 +2,9 @@ set gfn=Monaco:h14
 set nobackup
 set nowritebackup
 set noswapfile
-color Tomorrow-Night
 set clipboard=unnamed
-au BufRead,BufNewFile *.hamlc set ft=haml
-au BufNewFile,BufRead *.ejs set filetype=html
-set shell=/bin/sh
+# au BufRead,BufNewFile *.hamlc set ft=haml
+# au BufNewFile,BufRead *.ejs set filetype=html
 :let NERDTreeQuitOnOpen = 1
-:let mapleader = ","
 nnoremap <Leader>d :let NERDTreeQuitOnOpen = 1<bar>NERDTreeToggle<CR>
 nnoremap <Leader>D :let NERDTreeQuitOnOpen = 0<bar>NERDTreeToggle<CR>
